@@ -14,4 +14,4 @@ $.ajax({
       console.log('Error en la solicitud');
       console.log(error);
     }
-  });
+  });   
